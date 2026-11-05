@@ -1,0 +1,49 @@
+.logo{
+    width: 50px;
+    height: auto;
+    margin-right: 10px;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.perfil {
+  width: 70%;
+  height: auto;
+}
+
+.titular{
+    font-size: 54px;
+}
+
+.portadilla{
+    font-size: 23px;
+    font-weight: 600;
+    color: gray;
+}
+
+.btn-rodrigo {
+    background-color: #c86f31;
+    color: white;
+    border-radius: 36px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.bi-bookmark-heart{
+    margin-right: 6px;
+    font-size: 20px;
+}
+
+.hero{
+    background-color: #fefefe;
+}
+
+.textos{
+    text-align: justify;
+    line-height: 1.7;
+}
